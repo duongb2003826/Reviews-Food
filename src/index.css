@@ -1,0 +1,11 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+.review .star {
+	color: #aeaead;
+}
+
+.review .star.active {
+	color: #ffa600;
+}
